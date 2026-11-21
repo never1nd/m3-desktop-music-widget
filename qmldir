@@ -1,0 +1,6 @@
+singleton Config 1.0 Config.qml
+singleton Theme 1.0 Theme.qml
+M3Icon 1.0 M3Icon.qml
+M3Text 1.0 M3Text.qml
+M3WavyScrubber 1.0 M3WavyScrubber.qml
+DesktopMusicWidget 1.0 DesktopMusicWidget.qml

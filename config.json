@@ -1,0 +1,50 @@
+{
+  "position": "top-right",
+  "margins": {
+    "top": 52,
+    "right": 40,
+    "bottom": 40,
+    "left": 40
+  },
+  "width": 880,
+  "height": 488,
+  "radius": 28,
+  "opacity": 0.9,
+  "layer": "bottom",
+  "autoHideWhenPaused": true,
+  "showLyrics": true,
+  "wave": {
+    "wavelength": 38.0,
+    "amplitude": 3.6
+  },
+  "fonts": {
+    "sans": "Roboto Flex",
+    "icons": "Material Symbols Rounded"
+  },
+  "colorsFile": "",
+  "theme": {
+    "mode": "dark",
+    "primary": "#d0bdfd",
+    "on_primary": "#36275c",
+    "primary_container": "#594981",
+    "on_primary_container": "#f9f1ff",
+    "secondary": "#ccc2de",
+    "on_secondary": "#332d43",
+    "secondary_container": "#4f485f",
+    "on_secondary_container": "#eee3ff",
+    "tertiary": "#fdb0d4",
+    "on_tertiary": "#521d3b",
+    "tertiary_container": "#7a3f5e",
+    "on_tertiary_container": "#fff1f4",
+    "surface": "#141317",
+    "surface_container_lowest": "#0f0e11",
+    "surface_container_low": "#1c1b1f",
+    "surface_container": "#211f23",
+    "surface_container_high": "#2b292d",
+    "surface_container_highest": "#363438",
+    "on_surface": "#e6e1e6",
+    "on_surface_variant": "#cac4d0",
+    "outline": "#948f9a",
+    "outline_variant": "#49454f"
+  }
+}
