@@ -11,7 +11,7 @@
   "radius": 28,
   "opacity": 0.9,
   "layer": "bottom",
-  "autoHideWhenPaused": true,
+  "autoHideWhenPaused": false,
   "showLyrics": true,
   "wave": {
     "wavelength": 38.0,

@@ -16,7 +16,7 @@ Singleton {
     property int cardRadius: 28
     property real cardOpacity: 0.90
     property string layer: "bottom"
-    property bool autoHideWhenPaused: true
+    property bool autoHideWhenPaused: false
     property bool showLyrics: true
     property real wavelength: 38.0
     property real waveAmp: 3.6
